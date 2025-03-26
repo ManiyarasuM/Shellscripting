@@ -1,2 +1,11 @@
-g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s
-wdwd
+Set -x #debug mode
+df -h (it's using identify the storage details)
+free -g(using find RAM details)
+nproc (using to find entire details)
+ps (using find current process)
+ps -ef(find entire process)
+when we want use pipe command we need to use below rules
+    1. set -e #exit the script when there is an error
+    2. set -o pipefail 
+ps -ef | grep whichyouwant(find which you want the process details |this called as a pipe)
+ps -ef | grep amazone | awk -F" " '{print 2$)'
