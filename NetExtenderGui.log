@@ -1,0 +1,105 @@
+-------------------------------------------------------------------
+Date                  Level     Tag            Message
+
+01/15/2025 10:22:13 AM  Info      NEMain         Init main window,background:False,script:False
+
+01/15/2025 10:22:13 AM  Info      NEMain         Checking if service is running...
+
+01/15/2025 10:22:14 AM  Info      NELogin        Switch to disconnected status
+
+01/15/2025 10:22:19 AM  Info      NELogin        Start to add connection
+
+01/15/2025 10:23:02 AM  Info      NELogin        Start to edit connection
+
+01/15/2025 10:23:13 AM  Info      NELogin        Connect is clicked, start connect with connection SrinSoft
+
+01/15/2025 10:23:13 AM  Info      NELogin        Switch to authenticating status
+
+01/15/2025 10:23:24 AM  Info      NELogin        Switch to connecting status
+
+01/15/2025 10:23:37 AM  Info      NELogin        Switch to connected status
+
+01/15/2025 11:12:26 AM  Info      NELogin        Switch to reconnecting status
+
+01/15/2025 11:12:30 AM  Info      NELogin        Switch to reconnecting status
+
+01/15/2025 11:15:23 AM  Error     NELogin        switch to error status,eror:Session is expired.
+
+01/15/2025 11:43:18 AM  Info      NELogin        Connect is clicked, start connect with connection SrinSoft
+
+01/15/2025 11:43:18 AM  Info      NELogin        Switch to authenticating status
+
+01/15/2025 11:43:23 AM  Info      NELogin        Switch to authenticating status
+
+01/15/2025 11:43:24 AM  Info      NELogin        Switch to connecting status
+
+01/15/2025 11:43:26 AM  Info      NELogin        Switch to connected status
+
+01/15/2025 12:05:17 PM  Info      NELogin        Switch to reconnecting status
+
+01/15/2025 12:05:17 PM  Error     NELogin        switch to error status,eror:Session is expired.
+
+01/15/2025 12:05:20 PM  Info      NELogin        Connect is clicked, start connect with connection SrinSoft
+
+01/15/2025 12:05:20 PM  Info      NELogin        Switch to authenticating status
+
+01/15/2025 12:05:30 PM  Info      NELogin        Switch to authenticating status
+
+01/15/2025 12:05:31 PM  Info      NELogin        Switch to connecting status
+
+01/15/2025 12:05:33 PM  Info      NELogin        Switch to connected status
+
+01/15/2025 12:24:27 PM  Info      NELogin        Switch to reconnecting status
+
+01/15/2025 12:24:27 PM  Info      NELogin        Switch to reconnecting status
+
+01/15/2025 12:24:29 PM  Error     NELogin        switch to error status,eror:Session is expired.
+
+01/15/2025 1:53:22 PM   Info      NELogin        Connect is clicked, start connect with connection SrinSoft
+
+01/15/2025 1:53:22 PM   Info      NELogin        Switch to authenticating status
+
+01/15/2025 1:56:22 PM   Info      NELogin        Switch to disconnected status
+
+-------------------------------------------------------------------
+Date                  Level     Tag            Message
+
+01/15/2025 4:01:58 PM   Info      NEMain         Init main window,background:False,script:False
+
+01/15/2025 4:01:59 PM   Info      NEMain         Checking if service is running...
+
+01/15/2025 4:01:59 PM   Info      NELogin        Switch to disconnected status
+
+01/15/2025 4:02:01 PM   Info      NELogin        Connect is clicked, start connect with connection SrinSoft
+
+01/15/2025 4:02:01 PM   Info      NELogin        Switch to authenticating status
+
+01/15/2025 4:02:08 PM   Info      NELogin        Switch to authenticating status
+
+01/15/2025 4:02:16 PM   Info      NELogin        Switch to connecting status
+
+01/15/2025 4:02:22 PM   Info      NELogin        Switch to connected status
+
+01/15/2025 4:27:23 PM   Info      NELogin        Switch to reconnecting status
+
+01/15/2025 4:27:28 PM   Info      NELogin        Switch to reconnecting status
+
+01/15/2025 4:27:30 PM   Info      NELogin        Switch to connected status
+
+01/15/2025 4:27:30 PM   Info      NELogin        Switch to connected status
+
+01/15/2025 7:38:48 PM   Info      NELogin        Switch to reconnecting status
+
+01/15/2025 7:38:49 PM   Info      NELogin        Switch to reconnecting status
+
+-------------------------------------------------------------------
+Date                  Level     Tag            Message
+
+03/29/2025 2:21:47 PM   Info      NEMain         Init main window,background:False,script:False
+
+03/29/2025 2:21:47 PM   Info      NEMain         Checking if service is running...
+
+03/29/2025 2:21:47 PM   Info      NELogin        Switch to disconnected status
+
+03/29/2025 2:21:53 PM   Info      NELogs         View logs button clicked
+
